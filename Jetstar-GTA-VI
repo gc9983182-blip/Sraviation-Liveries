@@ -1,0 +1,22 @@
+
+{
+  "name": "SR Aviation",
+  "color": "#ff69b4",
+  "bgcolor": "#24103f",
+  "aircrafts": {
+    "airbus a320-214(Sri Lankan)_427352_3534": {
+      "name": "Airbus A320-214",
+      "liveries": [
+        {
+          "name": "GTA VI Jetstar - VH-SRGTA",
+          "texture": [
+            "https://raw.githubusercontent.com/gc9983182-blip/Sraviation-Liveries/main/VH-SRGTA_A320_GTA6_Modern_V4_Jetstar_BehindDoor_2048.png"
+          ],
+          "credits": "SR Aviation"
+        }
+      ],
+      "labels": ["Texture"],
+      "defshader": [""]
+    }
+  }
+}
