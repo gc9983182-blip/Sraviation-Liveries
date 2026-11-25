@@ -1,3 +1,4 @@
+
 {
   "name": "SR Aviation",
   "color": "#ff69b4",
@@ -10,6 +11,13 @@
           "name": "GTA VI Jetstar - VH-SRGTA",
           "texture": [
             "https://raw.githubusercontent.com/gc9983182-blip/Sraviation-Liveries/main/VH-SRGTA_A320_GTA6_Modern_V4_Jetstar_BehindDoor_2048.png"
+          ],
+          "credits": "SR Aviation"
+        },
+        {
+          "name": "Jetstar Orange WhiteBand - VH-SRGTA",
+          "texture": [
+            "https://raw.githubusercontent.com/gc9983182-blip/Sraviation-Liveries/main/VH-SRGTA_A320_Jetstar_Orange_WhiteBand%20(2).png"
           ],
           "credits": "SR Aviation"
         }
